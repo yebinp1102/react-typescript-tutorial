@@ -76,7 +76,8 @@
   border-radius: 5px;
   padding: 20px;
   margin-top: 15px;
-  background-color: #fff;
+  background-color: #243A73;
+  color: #fff;
 }
 
 @media(max-width: 1200px){
